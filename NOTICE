@@ -1,0 +1,34 @@
+IX-Mirror
+Copyright 2026 Bryce Lovell
+
+This repository is licensed under the Apache License, Version 2.0.
+
+Unless otherwise stated in a specific third-party file, all original source
+code, documentation, configuration, diagrams, templates, models, and repository
+infrastructure in this project are provided under Apache-2.0.
+
+Third-party datasets, standards, papers, patents, government publications,
+vendor specifications, and other external source material remain subject to
+their original terms, licenses, and citation requirements. Inclusion of source
+metadata, excerpts, normalized records, or analysis notes in this repository
+does not imply transfer of upstream intellectual property rights.
+
+IX-Mirror is a documentation-first and analysis-first concept repository for
+space-radiation risk reduction. It is intended to support disciplined
+evaluation of multifunctional crew-protection architectures centered on
+hydrogen-rich shielding, storm-shelter logic, layered materials tradeoffs,
+dosimetry-informed operations, and explicit claim boundaries.
+
+This repository does not claim flight qualification, does not claim certified
+human-rating status, does not claim medical efficacy, and does not claim that
+any concept herein fully resolves galactic cosmic ray exposure. Where results
+are modeled, inferred, estimated, or illustrative, they must be labeled as
+such.
+
+This repository does not provide weaponization guidance, does not provide
+instructions for harmful radiological use, and does not constitute legal,
+medical, mission-assurance, or safety certification advice.
+
+Any derivative work or redistribution should preserve this notice together with
+the Apache-2.0 license text and should not remove explicit non-claim language
+where it is necessary to prevent technical overstatement.
