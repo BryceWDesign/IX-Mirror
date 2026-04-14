@@ -1,0 +1,97 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build and packaging
+build/
+dist/
+site/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and local runtime files
+*.log
+*.tmp
+*.temp
+
+# Environment and secrets
+.env
+.env.*
+*.secret
+*.secrets
+secrets/
+credentials/
+tokens/
+
+# Local data dumps and scratch work
+tmp/
+temp/
+scratch/
+sandbox/
+local/
+cache/
+
+# Generated analysis outputs
+outputs/
+reports/generated/
+figures/generated/
+artifacts/generated/
+exports/
+simulation_runs/
+benchmarks/generated/
+
+# Radiation-model and transport-tool outputs
+oltaris_exports/
+geant4_runs/
+geant4_output/
+mc_runs/
+dose_maps/generated/
+shield_trade_runs/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Dependency lockfiles created during local experimentation
+poetry.lock
+
+# Keep canonical repository content tracked by default.
+# Add narrower ignore rules later only when a real generated path exists.
